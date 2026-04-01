@@ -198,7 +198,7 @@ function default_settings() {
   VMID=$NEXTID
   HN=R1
   CORE_COUNT="1"
-  RAM_SIZE="256"
+  RAM_SIZE="512"
   BRG="vmbr0"
   VLAN=""
   MAC=$GEN_MAC
