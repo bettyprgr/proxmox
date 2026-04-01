@@ -430,7 +430,7 @@ fi
 msg_ok "Using ${CL}${BL}$STORAGE${CL} ${GN}for Storage Location."
 msg_ok "Virtual Machine ID is ${CL}${BL}$VMID${CL}."
 
-stableversion="24.10.0"
+stableversion="24.10.5"
 msg_info "Getting URL for ImmortalWrt $stableversion Disk Image"
 URL="https://downloads.immortalwrt.org/releases/$stableversion/targets/x86/64/immortalwrt-$stableversion-x86-64-generic-ext4-combined.img.gz"
 
